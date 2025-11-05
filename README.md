@@ -32,16 +32,16 @@ Nouvelles fonctionnalités ajoutées :
 - Le comportement du script peut être ajusté sans modifier le code source :
    - Activation/désactivation de la recherche avec tiret.
    - Édition de la liste de détection directement depuis l’interface.
+   
+| Fonctionnalité                         | Version 1.3 | Nouvelle version                |
+|---------------------------------------|------------|--------------------------------|
+| Détection par tiret uniquement         | ✅ Oui     | ✅ Optionnelle                  |
+| Détection de mots isolés               | ❌ Non     | ✅ Oui                          |
+| Liste d’honorifiques fixe              | ✅ Oui     | ❌ Non (modifiable)             |
+| Interface graphique                    | ❌ Non     | ✅ Oui                          |
+| Sauvegarde de configuration            | ❌ Non     | ✅ Oui                          |
+| Précision du mot détecté               | ❌ Non     | ✅ Oui                          |
+| Nettoyage des balises ASS              | ✅ Oui     | ✅ Oui (amélioré)               |
+| Personnalisation sans modifier le code | ❌ Non     | ✅ Oui                          |
+| Fichier de configuration externe       | ❌ Non     | ✅ Oui (honorifiques_config.txt) |
 
-   | Fonctionnalité                         | Version 1.3 | Nouvelle version                |
-| -------------------------------------- | ------------- | -------------------------------- |
-| Détection par tiret uniquement         | ✅ Oui       | ✅ Optionnelle                   |
-| Détection de mots isolés               | ❌ Non       | ✅ Oui                           |
-| Liste d’honorifiques fixe              | ✅ Oui       | ❌ Non (modifiable)              |
-| Interface graphique                    | ❌ Non       | ✅ Oui                           |
-| Sauvegarde de configuration            | ❌ Non       | ✅ Oui                           |
-| Précision du mot détecté               | ❌ Non       | ✅ Oui                           |
-| Nettoyage des balises ASS              | ✅ Oui       | ✅ Oui (amélioré)                |
-| Personnalisation sans modifier le code | ❌ Non       | ✅ Oui                           |
-| Fichier de configuration externe       | ❌ Non       | ✅ Oui (honorifiques_config.txt) |
-| -------------------------------------- | ------------  | -------------------------------- |
