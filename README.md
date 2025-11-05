@@ -10,10 +10,10 @@ Nouvelles fonctionnalités ajoutées :
 
 2. 🪟 Boîte de configuration interactive
  - Une fenêtre s’ouvre lorsque l’on clique sur le script, avec :
-  - Une case à cocher :
+   - Une case à cocher :
     ✅ Autoriser les honorifiques liés par un tiret
-  - Un champ pour ajouter ou modifier la liste d’honorifiques.
-  - texte d’exemple listant les honorifiques par défaut :
+   - Un champ pour ajouter ou modifier la liste d’honorifiques.
+   - Texte d’exemple listant les honorifiques par défaut :
     san, kun, chan, sama, senpai, sempai, sensei, dono, tan, shi, hime, ou, bei, pai, sen, nyan, chi, samā, senpāi, ō, hīmē, shī, dōno
 
 3. 💾 Sauvegarde persistante
